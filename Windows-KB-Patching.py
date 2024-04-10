@@ -152,4 +152,4 @@ def test_kerberos_connection(hostname):
 # List all the KB's you want to install on the hosts
 # KBs = []
 
-test_kerberos_connection("edith.pmel.noaa.gov")
+test_kerberos_connection("""Enter Hostname""")
